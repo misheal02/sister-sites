@@ -1,0 +1,48 @@
+div {
+  background-color: #B2FFBB;
+  border:5px solid green;
+}
+.title{
+  color: green;
+  letter-spacing: 20px;
+  text-shadow: 3px 3px 10px #006400;
+  font-family: 'Abril Fatface', cursive;
+}
+.hometown{
+  width:100%;
+  height: 800px;
+}
+.doggo{
+  font-weight: normal;
+  font-family: 'M PLUS 1p', sans-serif;
+
+}
+.birth{
+  font-weight: normal;
+  font-family: 'M PLUS 1p', sans-serif;
+
+}
+.school{
+  font-weight: normal;
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.bruno {
+  width: 800px;
+  height: 650px;
+}
+.titi {
+  width:500px;
+
+}
+h3{
+  font-family: 'M PLUS 1p', sans-serif;
+  font-weight: normal;
+}
+.bear1{
+  width: 700px;
+  height: 500px;
+}
+.mars{
+  width:
+}
